@@ -27,6 +27,10 @@ First initialize the object with:
 
 1. **df_percentile(df, col_names, col_to_separate)** *bedrooms and bathrooms are the features you care about, separate by price*
 ```
+In [10]: import dfpercentile
+
+In [11]: from dfpercentile import df_percentile
+
 In [12]: new_df = df_percentile(df, ['bedrooms','bathrooms'], 'price')
 This dataframe is separated by price  
 ```
