@@ -1,5 +1,11 @@
 # df_percentile Package
 
+https://pypi.org/project/dfpercentile-pkg-chanrl/0.0.1/
+
+```
+pip install dfpercentile-pkg-chanrl==0.0.1
+```
+
 ## Background
 
 Code is in dfpercentile folder
