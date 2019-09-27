@@ -2,7 +2,7 @@
 
 ## Background
 
-Code is in dfpercentile/__init__.py
+Code is in dfpercentile folder
 
 This package can split a Pandas Dataframe into two groups by a specified percentile and column to split on.
 
