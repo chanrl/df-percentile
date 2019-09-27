@@ -2,6 +2,8 @@
 
 ## Background
 
+Code is in dfpercentile/__init__.py
+
 This package can split a Pandas Dataframe into two groups by a specified percentile and column to split on.
 
 It can be useful for identifying trends in data sets with features such as price or salary. 
